@@ -1,0 +1,50 @@
+0000000000000000000000000000000000000000 1ad8dffeabe9764c38fa792e89e661298963245b unknown <turbi@Turbide.(none)> 1708631943 -0500	clone: from https://github.com/BdeB-Org/tp-1-partie1-tp1-turbide-samuel.git
+1ad8dffeabe9764c38fa792e89e661298963245b 1ad8dffeabe9764c38fa792e89e661298963245b unknown <turbi@Turbide.(none)> 1708632145 -0500	checkout: moving from main to equipier1
+1ad8dffeabe9764c38fa792e89e661298963245b 1ad8dffeabe9764c38fa792e89e661298963245b unknown <turbi@Turbide.(none)> 1708632149 -0500	checkout: moving from equipier1 to equipier2
+1ad8dffeabe9764c38fa792e89e661298963245b 1ad8dffeabe9764c38fa792e89e661298963245b unknown <turbi@Turbide.(none)> 1708632153 -0500	checkout: moving from equipier2 to css
+1ad8dffeabe9764c38fa792e89e661298963245b 1ad8dffeabe9764c38fa792e89e661298963245b unknown <turbi@Turbide.(none)> 1708632159 -0500	checkout: moving from css to equipier1
+1ad8dffeabe9764c38fa792e89e661298963245b 24434397aeb0074eff3ba3c8b5abacfd4dc75ab3 Pluganada <turbidesamuel@gmail.com> 1708632225 -0500	commit: Ajout du fichier index.html
+24434397aeb0074eff3ba3c8b5abacfd4dc75ab3 1ad8dffeabe9764c38fa792e89e661298963245b Pluganada <turbidesamuel@gmail.com> 1708632337 -0500	checkout: moving from equipier1 to equipier2
+1ad8dffeabe9764c38fa792e89e661298963245b 24434397aeb0074eff3ba3c8b5abacfd4dc75ab3 Pluganada <turbidesamuel@gmail.com> 1708632422 -0500	checkout: moving from equipier2 to equipier1
+24434397aeb0074eff3ba3c8b5abacfd4dc75ab3 1ad8dffeabe9764c38fa792e89e661298963245b Pluganada <turbidesamuel@gmail.com> 1708632483 -0500	checkout: moving from equipier1 to equipier2
+1ad8dffeabe9764c38fa792e89e661298963245b 24434397aeb0074eff3ba3c8b5abacfd4dc75ab3 Pluganada <turbidesamuel@gmail.com> 1708632492 -0500	merge equipier1: Fast-forward
+24434397aeb0074eff3ba3c8b5abacfd4dc75ab3 1ad8dffeabe9764c38fa792e89e661298963245b Pluganada <turbidesamuel@gmail.com> 1708632495 -0500	checkout: moving from equipier2 to css
+1ad8dffeabe9764c38fa792e89e661298963245b 24434397aeb0074eff3ba3c8b5abacfd4dc75ab3 Pluganada <turbidesamuel@gmail.com> 1708632504 -0500	merge equipier1: Fast-forward
+24434397aeb0074eff3ba3c8b5abacfd4dc75ab3 24434397aeb0074eff3ba3c8b5abacfd4dc75ab3 Pluganada <turbidesamuel@gmail.com> 1708632507 -0500	checkout: moving from css to equipier1
+24434397aeb0074eff3ba3c8b5abacfd4dc75ab3 24434397aeb0074eff3ba3c8b5abacfd4dc75ab3 Pluganada <turbidesamuel@gmail.com> 1708632513 -0500	checkout: moving from equipier1 to equipier2
+24434397aeb0074eff3ba3c8b5abacfd4dc75ab3 b55683ebd3e43f7fbbfa7155b7b0dd55e15272c4 Pluganada <turbidesamuel@gmail.com> 1708632541 -0500	commit: Ajout du répertoire CSS
+b55683ebd3e43f7fbbfa7155b7b0dd55e15272c4 5dae93acd4eb228f98c514426aeb965b6ebe2f48 Pluganada <turbidesamuel@gmail.com> 1708632593 -0500	commit: Ajout du fichier commun css
+5dae93acd4eb228f98c514426aeb965b6ebe2f48 24434397aeb0074eff3ba3c8b5abacfd4dc75ab3 Pluganada <turbidesamuel@gmail.com> 1708632600 -0500	checkout: moving from equipier2 to equipier1
+24434397aeb0074eff3ba3c8b5abacfd4dc75ab3 1f980be4814a751a3b40310076121ab9ddf43bb3 Pluganada <turbidesamuel@gmail.com> 1708632772 -0500	commit: Ajout du répertoire HTML
+1f980be4814a751a3b40310076121ab9ddf43bb3 9eeaac7ee03c46b325ea79fb098f67f95ba559b2 Pluganada <turbidesamuel@gmail.com> 1708632789 -0500	commit: Ajout des deux catégories
+9eeaac7ee03c46b325ea79fb098f67f95ba559b2 9f184d4dfe4c1ad68f1a446db50e4a5ad510d7fe Pluganada <turbidesamuel@gmail.com> 1708632829 -0500	commit: Ajout des quatres produits html
+9f184d4dfe4c1ad68f1a446db50e4a5ad510d7fe 4ea181f93c216b920a547932391549b84964f7d0 Pluganada <turbidesamuel@gmail.com> 1708632865 -0500	commit: Ajout du fichier image avec le .gitignore
+4ea181f93c216b920a547932391549b84964f7d0 0b358abbd64b5377a988d1f3612afef001b033a1 Pluganada <turbidesamuel@gmail.com> 1708632931 -0500	commit: Ajout du repertoire des journaux avec le fichier qui comporte mon journal
+0b358abbd64b5377a988d1f3612afef001b033a1 5dae93acd4eb228f98c514426aeb965b6ebe2f48 Pluganada <turbidesamuel@gmail.com> 1708633154 -0500	checkout: moving from equipier1 to equipier2
+5dae93acd4eb228f98c514426aeb965b6ebe2f48 c38c12ded850b5e01851ee459771ea0221884e3a Pluganada <turbidesamuel@gmail.com> 1708633167 -0500	merge equipier1: Merge made by the 'ort' strategy.
+c38c12ded850b5e01851ee459771ea0221884e3a 24434397aeb0074eff3ba3c8b5abacfd4dc75ab3 Pluganada <turbidesamuel@gmail.com> 1708633237 -0500	checkout: moving from equipier2 to css
+24434397aeb0074eff3ba3c8b5abacfd4dc75ab3 0b358abbd64b5377a988d1f3612afef001b033a1 Pluganada <turbidesamuel@gmail.com> 1708633247 -0500	checkout: moving from css to equipier1
+0b358abbd64b5377a988d1f3612afef001b033a1 a14190370b578287adb26293321b1f0b262b8afb Pluganada <turbidesamuel@gmail.com> 1708633611 -0500	commit: Ajout du code de base index.html
+a14190370b578287adb26293321b1f0b262b8afb 3792e14dcfd8b2183ee55d8ac096aa61d7391f52 Pluganada <turbidesamuel@gmail.com> 1708633673 -0500	commit: Ajout du code de base des deux fichiers de catégorie
+3792e14dcfd8b2183ee55d8ac096aa61d7391f52 c191740e0eb423083c514bf4451aba3a48580a4f Pluganada <turbidesamuel@gmail.com> 1708633844 -0500	commit: Ajout du code de base des quatres fichiers HTML de produits
+c191740e0eb423083c514bf4451aba3a48580a4f 077465c0c9ead1c14fe2b35b7cb0136d0d45ffd0 Pluganada <turbidesamuel@gmail.com> 1708634230 -0500	commit: Ajout des quatres images
+077465c0c9ead1c14fe2b35b7cb0136d0d45ffd0 5c71ba151c3849a5cfe467eb5027a2f307d32deb Pluganada <turbidesamuel@gmail.com> 1708634427 -0500	commit: Ajout du repertoire et fichier commun css et changement de code de cat1 et cat2 pour inclure les produits
+5c71ba151c3849a5cfe467eb5027a2f307d32deb 544f6a42c31754c8fd2854183dbe1b59761091be Pluganada <turbidesamuel@gmail.com> 1708634714 -0500	commit: Ajout des images des produits, avec description dans chaques pages HTML + ajout de CSS
+544f6a42c31754c8fd2854183dbe1b59761091be 5c71ba151c3849a5cfe467eb5027a2f307d32deb Pluganada <turbidesamuel@gmail.com> 1708634769 -0500	reset: moving to HEAD^
+5c71ba151c3849a5cfe467eb5027a2f307d32deb 76a49219cb327fd07f67d60211df6bf53acff34d Pluganada <turbidesamuel@gmail.com> 1708634816 -0500	commit: Ajout de code CSS
+76a49219cb327fd07f67d60211df6bf53acff34d 5c71ba151c3849a5cfe467eb5027a2f307d32deb Pluganada <turbidesamuel@gmail.com> 1708634819 -0500	reset: moving to HEAD^
+5c71ba151c3849a5cfe467eb5027a2f307d32deb 24434397aeb0074eff3ba3c8b5abacfd4dc75ab3 Pluganada <turbidesamuel@gmail.com> 1708634852 -0500	checkout: moving from equipier1 to css
+24434397aeb0074eff3ba3c8b5abacfd4dc75ab3 5c71ba151c3849a5cfe467eb5027a2f307d32deb Pluganada <turbidesamuel@gmail.com> 1708634864 -0500	merge equipier1: Fast-forward
+5c71ba151c3849a5cfe467eb5027a2f307d32deb e64bb2aa61cbb645c311f330beedbf984b51a079 Pluganada <turbidesamuel@gmail.com> 1708634896 -0500	commit: Ajout de code HTML, h1, ul, body et a, en bleu
+e64bb2aa61cbb645c311f330beedbf984b51a079 5c71ba151c3849a5cfe467eb5027a2f307d32deb Pluganada <turbidesamuel@gmail.com> 1708634906 -0500	checkout: moving from css to equipier1
+5c71ba151c3849a5cfe467eb5027a2f307d32deb 61209104b699af94f1565186686b1862751b6dc4 Pluganada <turbidesamuel@gmail.com> 1708634968 -0500	commit: Ajout de deux produits par chaques catégories
+61209104b699af94f1565186686b1862751b6dc4 92db8e88fe2dd996c475211432f76071b7dd0540 Pluganada <turbidesamuel@gmail.com> 1708635089 -0500	commit: Ajout de l'image du produit1 dans prod1.html avec description du produit
+92db8e88fe2dd996c475211432f76071b7dd0540 477e46038bed820ab81ef6389e56d90fb34b38ee Pluganada <turbidesamuel@gmail.com> 1708635232 -0500	pull origin css: Merge made by the 'ort' strategy.
+477e46038bed820ab81ef6389e56d90fb34b38ee 270ee625d6642804c4e8af75a716f170391a73e2 Pluganada <turbidesamuel@gmail.com> 1708635984 -0500	commit: Ajout des descriptions et images dans la page de produit 2, 3 et 4
+270ee625d6642804c4e8af75a716f170391a73e2 ee3db8bf3e661f946a247f1727cba7acc3671f1d Pluganada <turbidesamuel@gmail.com> 1708636583 -0500	commit: Changement d'image pour produit 3
+ee3db8bf3e661f946a247f1727cba7acc3671f1d e64bb2aa61cbb645c311f330beedbf984b51a079 Pluganada <turbidesamuel@gmail.com> 1708636594 -0500	checkout: moving from equipier1 to css
+e64bb2aa61cbb645c311f330beedbf984b51a079 52b393365413dc0b2ea921710231bc74ff9de70d Pluganada <turbidesamuel@gmail.com> 1708636622 -0500	commit: Centrement des textes avec CSS
+52b393365413dc0b2ea921710231bc74ff9de70d ee3db8bf3e661f946a247f1727cba7acc3671f1d Pluganada <turbidesamuel@gmail.com> 1708636634 -0500	checkout: moving from css to equipier1
+ee3db8bf3e661f946a247f1727cba7acc3671f1d 03e40a3af7f567bd84e1709a7c6a9b8d69d1bf3a Pluganada <turbidesamuel@gmail.com> 1708804811 -0500	commit: Ajout de la page de garde pour le journal de bord
+03e40a3af7f567bd84e1709a7c6a9b8d69d1bf3a 9a239f4bee4d8d466c3e16997efee31bf47b2ead Pluganada <turbidesamuel@gmail.com> 1708805149 -0500	commit: Ajout de la table de matière, sources et des problèmes rencontrés
+9a239f4bee4d8d466c3e16997efee31bf47b2ead 91bb616f124fb599b730aa8aa56c2c0c35d8b2b9 Pluganada <turbidesamuel@gmail.com> 1708805608 -0500	commit: Ajout de la catégorie git reflog dans le journal

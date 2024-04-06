@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 1ad8dffeabe9764c38fa792e89e661298963245b unknown <turbi@Turbide.(none)> 1708632153 -0500	branch: Created from HEAD
+1ad8dffeabe9764c38fa792e89e661298963245b 24434397aeb0074eff3ba3c8b5abacfd4dc75ab3 Pluganada <turbidesamuel@gmail.com> 1708632504 -0500	merge equipier1: Fast-forward
+24434397aeb0074eff3ba3c8b5abacfd4dc75ab3 5c71ba151c3849a5cfe467eb5027a2f307d32deb Pluganada <turbidesamuel@gmail.com> 1708634864 -0500	merge equipier1: Fast-forward
+5c71ba151c3849a5cfe467eb5027a2f307d32deb e64bb2aa61cbb645c311f330beedbf984b51a079 Pluganada <turbidesamuel@gmail.com> 1708634896 -0500	commit: Ajout de code HTML, h1, ul, body et a, en bleu
+e64bb2aa61cbb645c311f330beedbf984b51a079 52b393365413dc0b2ea921710231bc74ff9de70d Pluganada <turbidesamuel@gmail.com> 1708636622 -0500	commit: Centrement des textes avec CSS
